@@ -1,0 +1,3 @@
+export const GET_PRODUCT = "PRODUCT : GET_PRODUCT"
+export const SET_PRODUCT = "PRODUCT : SET_PRODUCT"
+export const IS_LOADING = "PRODUCT : IS_LOADING"
